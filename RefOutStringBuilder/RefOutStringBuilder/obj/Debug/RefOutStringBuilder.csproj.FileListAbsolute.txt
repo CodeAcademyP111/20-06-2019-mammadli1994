@@ -1,0 +1,7 @@
+C:\Users\Aishe\Desktop\p111\C#\20.06.2019\RefOutStringBuilder\RefOutStringBuilder\bin\Debug\RefOutStringBuilder.exe.config
+C:\Users\Aishe\Desktop\p111\C#\20.06.2019\RefOutStringBuilder\RefOutStringBuilder\bin\Debug\RefOutStringBuilder.exe
+C:\Users\Aishe\Desktop\p111\C#\20.06.2019\RefOutStringBuilder\RefOutStringBuilder\bin\Debug\RefOutStringBuilder.pdb
+C:\Users\Aishe\Desktop\p111\C#\20.06.2019\RefOutStringBuilder\RefOutStringBuilder\obj\Debug\RefOutStringBuilder.csprojAssemblyReference.cache
+C:\Users\Aishe\Desktop\p111\C#\20.06.2019\RefOutStringBuilder\RefOutStringBuilder\obj\Debug\RefOutStringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Aishe\Desktop\p111\C#\20.06.2019\RefOutStringBuilder\RefOutStringBuilder\obj\Debug\RefOutStringBuilder.exe
+C:\Users\Aishe\Desktop\p111\C#\20.06.2019\RefOutStringBuilder\RefOutStringBuilder\obj\Debug\RefOutStringBuilder.pdb
